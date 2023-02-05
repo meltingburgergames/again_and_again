@@ -1,0 +1,3 @@
+[submodule "Libraries/slayter"]
+	path = Libraries/slayter
+	url = https://github.com/meltingburgergames/slayter
